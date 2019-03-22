@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatHouse</string>
+    <string name="title_activity_cat">CatActivity</string>
+    <string name="title_home">Home</string>
+
+    <string name="title_activity_map">MapActivity</string>
+</resources>
