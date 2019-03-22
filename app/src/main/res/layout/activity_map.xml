@@ -14,17 +14,17 @@
         <EditText
             android:layout_width="120dp"
             android:layout_height="match_parent"
-            android:hint="经度"
+            android:hint="Longitude"
             android:id="@+id/editText_lg" />
         <EditText
             android:layout_width="120dp"
             android:layout_height="match_parent"
-            android:hint="纬度"
+            android:hint="Latitude"
             android:id="@+id/editText_la" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:hint="前往"
+            android:hint="Go to"
             android:id="@+id/button_llsearch"/>
     </LinearLayout>
     <LinearLayout
@@ -37,12 +37,12 @@
         <EditText
             android:layout_width="240dp"
             android:layout_height="match_parent"
-            android:hint="地址"
+            android:hint="Address"
             android:id="@+id/editText_site" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:hint="前往"
+            android:hint="Go to"
             android:id="@+id/button_sitesearch"/>
     </LinearLayout>
 
