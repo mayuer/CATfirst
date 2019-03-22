@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         intent.setClass(MainActivity.this, Register.class);
         startActivity(intent);
     }
-
+//
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
