@@ -5,15 +5,15 @@
 
     <item
         android:id="@+id/menu_item_mylocation"
-        android:title="我的位置"
+        android:title="My location"
         app:showAsAction="never" />
     <item
         android:id="@+id/menu_item_llsearch"
-        android:title="经纬度搜索"
+        android:title="Latitude and longitude search"
         app:showAsAction="never" />
     <item
         android:id="@+id/menu_item_sitesearch"
-        android:title="地址搜索"
+        android:title="Address search"
         app:showAsAction="never" />
 
 </menu>
